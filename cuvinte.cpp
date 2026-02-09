@@ -1,3 +1,6 @@
+
+//joculet de tip ghiceste numarul secret
+
 #include <cstdlib>
 #include <ctime>
 #include <iostream>
@@ -39,4 +42,5 @@ int main(){
         cout<<"bravo!"<<endl;
     }
     cout<<"ai ghicit in "<<tries<<" incercari,felicitari!"<<endl;
+
 }
