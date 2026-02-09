@@ -1,3 +1,6 @@
+
+//program care blocheaza temporar inputul utilizatorului
+
 #include<iostream>
 #include<windows.h>
 #include<winable.h>
@@ -10,4 +13,5 @@ int main(){
     cout<<"UnblockInput"<<endl;
     Sleep(2000);
     return 0;
+
 }
